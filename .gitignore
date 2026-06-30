@@ -1,0 +1,22 @@
+# --- Simulink / MATLAB cache (regenerável) ---
+slprj/
+*.slxc
+*.asv
+*.autosave
+*.mexmaci64
+*.mexa64
+*.mexw64
+
+# --- LaTeX (auxiliares regeneráveis; mantém .tex e .pdf) ---
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.bbl
+*.blg
+
+# --- macOS ---
+.DS_Store
